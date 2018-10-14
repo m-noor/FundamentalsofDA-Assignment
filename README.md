@@ -1,2 +1,2 @@
-# FundamentalsofDA-Assignment
-Fundamentals of Data Analysis Assignments for GMIT HDip in Data Analysis
+# Fundamentals of Data Analysis - Assignment
+## Assignments for GMIT HDip in Data Analysis
